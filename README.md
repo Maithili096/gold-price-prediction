@@ -30,5 +30,11 @@ This project predicts gold prices using machine learning models. Historical Gold
 - `gold_price_prediction.ipynb` – Main Jupyter Notebook
 - `README.md` – Project documentation
 
+### How to Run
+1. Open `gold_price_prediction.ipynb` in Google Colab or Jupyter.  
+2. Verify required libraries in `requirements.txt`.  
+3. Run all cells sequentially to reproduce results.
+
+
 ## Results
 The XGBoost model performed the best with lower RMSE and higher R² score. The predicted trend closely matches the actual gold price movement.
